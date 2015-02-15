@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Skinny Bones
-description: "A lightweight site starter for Jekyll"
-logo: 120x120.gif
+title: Deployd documentation
+description: "Documentation for Deployd"
+logo: deployd-logo.png
 teaser: 400x250.gif
 locale: en_US
-url: //mmistakes.github.io/skinny-bones-jekyll
+url: //nicolasritouet.github.io/documentation/
 
 # Jekyll configuration
 
@@ -21,16 +21,16 @@ gems:
 
 # Site owner
 owner:
-  name: Michael Rose
-  web: http://mademistakes.com
-  email: michael@mademistakes.com
-  twitter: mmistakes
-  bio: "Just another boring, tattooed, time traveling designer."
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  name: Deployd team
+  web: http://www.deployd.com
+  email: nicolas@ritouet.com
+  twitter: deploydapp
+  bio: "Deployd is a tool to design, build, and scale APIs for web and mobile apps in minutes instead of days."
+  avatar: deployd-logo.png # 160x160 px image for author byline
   google:
-    plus: +MichaelRoseDesign
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 3049671934
+    plus: +deployd
+    ad-client: ca-pub-1234567
+    ad-slot: 1234567
   disqus-shortname:
 
 
